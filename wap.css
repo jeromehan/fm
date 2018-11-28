@@ -9,7 +9,8 @@ ul,ol {
 	list-style:none
 }
 img {
-	border:0
+	border:0;
+	backdrop-filter: dff;
 }
 body {
 	background:#FFF;
