@@ -8,6 +8,7 @@
 	padding-right: 0px;
 	padding-top: 10px;
 	backface-visibility: hidden;
+	margin: 10px;
 }
 body {
 	background-color:red;
