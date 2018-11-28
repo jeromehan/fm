@@ -7,6 +7,7 @@
 	outline-width: 0px;
 	padding-right: 0px;
 	padding-top: 10px;
+	backface-visibility: hidden;
 }
 body {
 	background-color:red;
